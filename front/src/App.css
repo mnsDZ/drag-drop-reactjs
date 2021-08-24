@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: inherit;
+  width: 660px;
+}
+.childs {
+  margin-top:56px;
+}
+
+.singleChild{
+  width: 200px;
+  height: 42px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.capitol {
+  width: 200px;
+  background: lightblue;
+  height: fit-content;
+  padding: 1em 0;
+  margin: 10px;
+}
+
+div .data {
+  height: fit-content;
+  padding: 1em 0;
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.data p {
+  background-color: lightblue;
+  width: 100%;
+  padding: 1em;
+  margin: 0 10px 0 0;
+}
